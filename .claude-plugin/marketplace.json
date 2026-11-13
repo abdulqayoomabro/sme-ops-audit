@@ -1,0 +1,12 @@
+{
+  "name": "sme-ops-audit",
+  "owner": { "name": "Abdul Qayoom Abro", "url": "https://github.com/abdulqayoomabro" },
+  "plugins": [
+    {
+      "name": "sme-ops-audit",
+      "source": "./",
+      "description": "Audit how an SME really runs and turn it into a scored digitisation plan with ROI.",
+      "version": "1.0.0"
+    }
+  ]
+}

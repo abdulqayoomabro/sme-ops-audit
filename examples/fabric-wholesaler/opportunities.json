@@ -1,0 +1,31 @@
+{
+  "currency": "PKR",
+  "opportunities": [
+    {
+      "name": "Udhaar to digital khata + payment reminders",
+      "hours_saved_per_week": 4,
+      "monthly_salary": 45000,
+      "loss_avoided_per_month": 60000,
+      "setup_cost": 15000,
+      "monthly_cost": 0,
+      "confidence": "owner"
+    },
+    {
+      "name": "Orders via Google Form + order numbers",
+      "hours_saved_per_week": 6,
+      "monthly_salary": 35000,
+      "loss_avoided_per_month": 25000,
+      "setup_cost": 10000,
+      "monthly_cost": 0,
+      "confidence": "estimate"
+    },
+    {
+      "name": "Shared WhatsApp inbox (Chatwoot)",
+      "hours_saved_per_week": 5,
+      "monthly_salary": 35000,
+      "setup_cost": 40000,
+      "monthly_cost": 6000,
+      "confidence": "assumption"
+    }
+  ]
+}

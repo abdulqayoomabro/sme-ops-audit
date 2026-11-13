@@ -1,0 +1,9 @@
+{
+  "name": "sme-ops-audit",
+  "version": "1.0.0",
+  "description": "Audit how an SME really runs (registers, WhatsApp, Excel) and turn it into a scored digitisation plan with ROI. English, Roman Urdu, Urdu.",
+  "author": { "name": "Abdul Qayoom Abro", "url": "https://github.com/abdulqayoomabro" },
+  "homepage": "https://github.com/abdulqayoomabro/sme-ops-audit",
+  "license": "MIT",
+  "keywords": ["sme", "operations", "digitisation", "pakistan", "urdu", "roi", "consulting"]
+}
